@@ -4,33 +4,34 @@
 
 ## 👨‍💻 About me
 
-🇪🇸 Living in Madrid, Spain
+🇪🇸  Living in Madrid, Spain
 
-📡 Telecommunications Engineering Degree
+📡  Telecommunications Engineering Degree
 
-🧞‍♂️ Full-Stack Developer (Using the MERN Stack)
+🧞‍♂️  Full-Stack Developer (Using the MERN Stack)
 
-🙈 Professional Scrum Master Certification (Level I)
+🙈  Professional Scrum Master Certification (Level I)
 
-⚡️ Co-founded Shakers to connect the best talent
+⚡️  Co-founded Shakers to connect the best talent
 
-## 💡 Tech Stack
+## 💡 Tech
+
+### The Web
 
 ![HTML](badges/web/html.svg)
 ![CSS](badges/web/css.svg)
 ![JS](badges/web/js.svg)
 
-<br />
+### The Stack
 
 ![Mongo](badges/stack/mongo.svg)
 ![Express](badges/stack/express.svg)
 ![React](badges/stack/react.svg)
 ![Node](badges/stack/node.svg)
 
+### The Tools
 
-## 🛠️ Tools
-
-![Git](badges/stack/git.svg)
-![AWS](badges/stack/aws.svg)
-![Code](badges/stack/code.svg)
+![Git](badges/tools/git.svg)
+![AWS](badges/tools/aws.svg)
+![Code](badges/tools/code.svg)
 
