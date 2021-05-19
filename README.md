@@ -1,18 +1,21 @@
 <div align="center">
-  <h1 title="Hi there 👋">👋 Hi, I'm Jorge Aguirre</h1>
+  <h1 title="Hi there 👋">
+    <img src="gifs/hi.gif" width="40" height="40" />
+    Hi, I'm Jorge Aguirre
+  </h1>
 </div>
 
 ## 👨‍💻 About me
 
-🇪🇸  Living in Madrid, Spain
+🇪🇸 &nbsp;&nbsp;Living in Madrid, Spain
 
-📡  Telecommunications Engineering Degree
+📡 &nbsp;&nbsp;Telecommunications Engineering Degree
 
-🧞‍♂️  Full-Stack Developer (Using the MERN Stack)
+🧞‍♂️ &nbsp;&nbsp;Full-Stack Developer (Using the MERN Stack)
 
-🙈  Professional Scrum Master Certification (Level I)
+🙈 &nbsp;&nbsp;Professional Scrum Master Certification (Level I)
 
-⚡️  Co-founded **Shakers** to connect the best talent
+⚡️ &nbsp;&nbsp;Co-founded Shakers to connect the best talent
 
 ## 💡 Tech
 
