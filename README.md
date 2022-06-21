@@ -15,7 +15,7 @@
 
 🙈 &nbsp;&nbsp;Professional Scrum Master Certification (Level I)
 
-⚡️ &nbsp;&nbsp;Co-founded Shakers to connect the best talent
+⚡️ &nbsp;&nbsp;Co-founded **Shakers** to connect the best talent
 
 ## 💡 Tech
 
@@ -37,13 +37,16 @@
 ![Git](badges/flow/git.svg)
 ![AWS](badges/flow/aws.svg)
 ![Code](badges/flow/code.svg)
+![Netlify](badges/tools/netlify.svg)
 
 ### Extra Tools
 
 ![Gulp](badges/tools/gulp.svg)
 ![Redux](badges/tools/redux.svg)
 ![Storybook](badges/tools/storybook.svg)
+![GraphQL](badges/tools/graphql.svg)
 
 ![SQL](badges/tools/sql.svg)
 ![Java](badges/tools/java.svg)
-![Netlify](badges/tools/netlify.svg)
+![Docker](badges/tools/docker.svg)
+![Kubernetes](badges/tools/kubernetes.svg)
